@@ -70,7 +70,7 @@ replay_pid*
 .idea/**/contentModel.xml
 
 .idea/
-untitled.iml/
+untitled.iml
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
